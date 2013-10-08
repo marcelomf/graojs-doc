@@ -1,0 +1,21 @@
+body { padding-top: 130px; }
+
+h1 { border-bottom: 1px solid #ccc}
+
+.navbar-white {
+    background-color: #fff;
+}
+.navbar-small {
+    top: 90px;
+    font-size: 0.9em;
+    min-height: 40px;
+    z-index: 1029;
+}
+
+.navbar-small li a {
+    padding: 10px;
+}
+
+.navbar-brand {
+    padding: 30px 15px 10px 15px;
+}
